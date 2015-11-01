@@ -1,0 +1,23 @@
+name: cap
+favicon: null
+layout_spectrum: 0.758969483198598
+typography_spectrum: 0.32915226998738945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8436342114582658
+  lightness: 0.9790754846762866
+  saturation: 0.3115289604756981
+  rhythmicContrast: 0.35138588515110314
+purpose: []
